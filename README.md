@@ -28,6 +28,7 @@ Execute each query from the projeto 2 script.
 
 In the files Projeto+1+-+Dashboard+de+vendas.xlsx and Projeto+2+-+Perfil+dos+leads.xlsx, you can view the result of each completed project.
 
+# PT-BR
 
 # Projeto-SQL---Curso-do-basico-ao-avancado---Udemy
 Projeto 1 - Dashboard de Vendas

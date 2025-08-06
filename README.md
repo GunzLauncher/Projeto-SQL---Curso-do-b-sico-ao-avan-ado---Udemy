@@ -18,6 +18,7 @@ Execute o script Dados, que contém todas as consultas de criação de tabelas
 
 # Passo 2: 
 Visualização das Tabelas:
+
 Execute cada query do script projeto 1
 
 Execute cada query do script projeto 2

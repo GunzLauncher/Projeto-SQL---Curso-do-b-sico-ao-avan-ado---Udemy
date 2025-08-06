@@ -13,12 +13,13 @@ Este guia detalha o processo para configurar a base de dados e executar as consu
 Antes de começar, certifique-se de ter um servidor PostgreSQL instalado e configurado, com acesso via terminal ou uma ferramenta de administração
 
 # Passo 1: 
-Criação da Base de Dados e Estrutura
+Criação da Base de Dados e Estrutura:
 Execute o script Dados, que contém todas as consultas de criação de tabelas
 
 # Passo 2: 
-Visualização das Tabelas
+Visualização das Tabelas:
 Execute cada query do script projeto 1
+
 Execute cada query do script projeto 2
 
 # Passo 3: Verificação

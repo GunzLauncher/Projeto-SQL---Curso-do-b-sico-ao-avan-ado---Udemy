@@ -1,4 +1,4 @@
-# Projeto-SQL---Curso-do-b-sico-ao-avan-ado---Udemy
+# Projeto-SQL---Curso-do-basico-ao-avancado---Udemy
 Projeto 1 - Dashboard de Vendas
 
 Projeto 2 - Perfil dos Leads
